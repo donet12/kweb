@@ -1,0 +1,14 @@
+.numbers{
+    margin:20px;
+}
+.number{
+    display: inline-block;
+    width: 50px;
+    padding-top: 15px;
+    border: 1px solid black;
+    padding-bottom: 15px;
+    margin:10px;
+    border-radius: 25px;
+    background-color: lightcoral;
+    text-align: center;
+}
